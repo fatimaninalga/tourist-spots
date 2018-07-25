@@ -3,8 +3,8 @@
     "id": 145,
     "name": "Palawan",
     "imageUrl": "http://www.wewander.ph/wp-content/uploads/2017/07/IMG_0519-1-1024x575.jpg",
-    "distance": 1070,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 9.834949,
     "lng": 118.738362
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Boracay",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/66683.jpg",
-    "distance": 714,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815
 
@@ -22,8 +22,8 @@
     "id": 201,
     "name": "Hundred Island",
     "imageUrl": "data:image/jpeg;base64,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",
-    "distance": 55 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat":16.204001,
     "lng": 120.040869
   },
@@ -31,8 +31,8 @@
     "id": 205,
     "name": "Zambales",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "distance": 217 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 14.848895,
     "lng": 120.251408
   },
@@ -40,8 +40,8 @@
     "id": 210,
     "name": "Chocolate Hills",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2011/01/Chocolate-Hills-Philippines.jpg",
-    "distance": 197 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat":9.829708,
     "lng": 124.139676
   },
@@ -49,8 +49,8 @@
     "id": 211,
     "name": "Lighthouse batanes",
     "imageUrl": "http://www.traveltrilogy.com/wp-content/uploads/2017/02/batan-batanes-2.jpg",
-    "distance": 421 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 13.598733,
     "lng": 121.262456
   },
@@ -67,8 +67,8 @@
     "id": 211,
     "name": "Luneta Park",
     "imageUrl": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8B8017CF6C940E7BE742DD09BE3FEDA/rizal-park_d5eb7d95eaad426fb486fce5243c5642_F8B8017CF6C940E7BE742DD09BE3FEDA.jpg",
-    "distance": 271 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 14.582415,
     "lng": 120.978168
   },
@@ -76,8 +76,8 @@
     "id": 211,
     "name": "Davao City",
     "imageUrl": "http://www.traveltrilogy.com/wp-content/uploads/2017/02/batan-batanes-2.jpg",
-    "distance": 1787 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat":7.190708,
     "lng": 125.455341
   },
@@ -85,8 +85,8 @@
     "id": 211,
     "name": "Banaue rice terraces",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2012/06/Banaue-Rice-Terraces.jpg",
-    "distance": 211 ,
-    "distanceCurrency": "km",
+   "price": 1070,
+    "priceCurrency": "km",
     "lat": 16.923954,
     "lng": 121.05564
   },
@@ -94,8 +94,8 @@
     "id": 211,
     "name": "WindMill",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2010/08/Ilocos-Windmills.jpg",
-    "distance": 276 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 18.513185,
     "lng": 120.734653
   },
@@ -103,8 +103,8 @@
     "id": 211,
     "name": "Magellan's Cross",
     "imageUrl": "http://www.traveltrilogy.com/wp-content/uploads/2017/02/batan-batanes-2.jpg",
-    "distance": 1126 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 10.293568,
     "lng": 123.901949
   },
@@ -112,8 +112,8 @@
     "id": 211,
     "name": "El nido palawan",
     "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2016/02/Things-to-do-in-El-Nido-Philippines-matinloc-shrine-El-Nido-Tour-C-1-800x530.jpg",
-    "distance": 892,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 11.209709,
     "lng": 119.462254
   },
@@ -121,8 +121,8 @@
     "id": 211,
     "name": "Batangas",
     "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/09/Batangas-Tourist-Spots-1.jpg",
-    "distance":  892 ,
-    "distanceCurrency": "km",
+    "price": 1070,
+    "priceCurrency": "km",
     "lat": 13.945034 ,
     "lng": 121.131201
   },
@@ -130,8 +130,8 @@
     "id": 211,
     "name": "Aqua park",
     "imageUrl": "https://i.ytimg.com/vi/KJtr2-2p7-E/maxresdefault.jpg",
-    "distance": 350 ,
-    "distanceCurrency": "km",
+   "price": 1070,
+    "priceCurrency": "km",
     "lat": 14.090195,
     "lng": 121.016588
   }
